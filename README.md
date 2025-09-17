@@ -30,7 +30,7 @@ Penelitian ini dilaksanakan melalui alur kerja yang sistematis, mulai dari pengu
 
 1.  **Pengumpulan Data:** Mengakuisisi 15.278 ulasan pelanggan dari Toko Pasar Stan Jogja.
 2.  **Pra-pemrosesan & Pelabelan:** Membersihkan teks (normalisasi, case folding) dan memberikan label sentimen ('positif', 'negatif', 'netral') menggunakan metode berbasis leksikon.
-3.  **Pembagian & Penyeimbangan Data:** Membagi data dengan rasio 80:10:10 dan menerapkan teknik *Class Weights* untuk mengatasi data tidak seimbang.
+3.  **Pembagian & Penyeimbangan Data:** Membagi data dengan rasio 70:15:15 dan menerapkan teknik *Class Weights* untuk mengatasi data tidak seimbang.
 4.  **Tokenisasi:** Mengubah teks menjadi format numerik yang dapat dipahami oleh model.
 5.  **Pemodelan Data:** Melakukan *fine-tuning* pada model pra-terlatih IndoBERT.
 6.  **Evaluasi & Visualisasi:** Mengukur performa model dengan metrik kuantitatif dan menganalisis hasilnya secara kualitatif.
@@ -56,7 +56,7 @@ Penelitian ini dilaksanakan melalui alur kerja yang sistematis, mulai dari pengu
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/](https://github.com/)[username-anda]/[nama-repositori-anda].git
+    git clone https://github.com/abdansykr/analisis-sentimen-transformer-id.git
     cd [nama-repositori-anda]
     ```
 
