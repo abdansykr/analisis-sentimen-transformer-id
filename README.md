@@ -105,4 +105,4 @@ Model IndoBERT yang dioptimalkan dengan *class weights* berhasil mencapai perfor
 Proyek ini dilisensikan di bawah Lisensi MIT.
 
 ## ✍️ Penulis
-* **[Nama Anda]** - *[Email atau Link LinkedIn Anda]*
+* **[Abdan Syakura]** - *linkedin.com/in/abdansyakura23*
